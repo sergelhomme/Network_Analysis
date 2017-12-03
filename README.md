@@ -1,6 +1,6 @@
 # Network Analysis
 
-QGIS Plugin for analyzing networks characteristics
+QGIS Plugin for analyzing networks characteristics.
 
 # Introduction
 
