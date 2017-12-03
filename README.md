@@ -12,8 +12,8 @@ For QGIS3 please use Network\_Analysis\_2\_1
 
 Other folders correspond to previous versions of the plugin.
 
-## Illustration
+## Illustrations
 
 ![An illustration of basic indicators](https://github.com/sergelhomme/Network_Analysis/blob/master/Images/basic_analysis2.png)
 
-An illustration of basic indicators with Network\_Anlysis : Degree and Betweenness
+<center>An illustration of basic indicators with Network\_Anlysis : Degree and Betweenness</center>
