@@ -12,6 +12,10 @@ For QGIS 3.x please use Network\_Analysis\_2\_1
 
 Other folders correspond to older versions of the plugin.
 
+## Installation
+
+Download zip. Choose your plugin version (see above). Then paste 'network_analysis' folder in the QGIS plugin repository. For instance, for windows users, paste it in "C:\Program Files\QGIS xxxx\apps\qgis\python\plugins"
+
 ## Illustrations
 
 ![An illustration of two basic indicators](https://github.com/sergelhomme/Network_Analysis/blob/master/Images/basic_analysis2.png)
