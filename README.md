@@ -29,3 +29,7 @@ Download zip. Extract folders from zip file. Choose your plugin version (see abo
 ![Drawing Algo](https://github.com/sergelhomme/Network_Analysis/blob/master/Images/Drawing.png)
 
 <p align="center"> Drawing Algo with Network_Analysis </p>
+
+![Community Detection](https://github.com/sergelhomme/Network_Analysis/blob/master/Images/Community.png)
+
+<p align="center"> Community detection (Louvain) with Network_Analysis </p>
