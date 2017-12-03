@@ -10,7 +10,7 @@ For QGIS2 please use Network\_Analysis\_1\_4
 
 For QGIS3 please use Network\_Analysis\_2\_1
 
-Other folders correspond to old versions of the plugin.
+Other folders correspond to previous versions of the plugin.
 
 # Illustration
 
