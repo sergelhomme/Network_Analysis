@@ -6,8 +6,10 @@ QGIS Plugin for analyzing networks characteristics
 
 Here you can find different versions of the plugin.
 
-For QGIS2 please use Network\_Analysis\_1.4
+For QGIS2 please use Network\_Analysis\_1\_4
 
-For QGIS3 please use Network\_Analysis\_2.1
+For QGIS3 please use Network\_Analysis\_2\_1
+
+Other folders correspond to old version of the plugin.
 
 # Illustration
