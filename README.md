@@ -4,7 +4,7 @@ QGIS Plugin for analyzing networks characteristics.
 
 ## Introduction
 
-Here you can find different versions of the plugin.
+Here you can find different versions of the plugin. Each folder above correspond to a version.
 
 For QGIS 2.x please use Network\_Analysis\_1\_4
 
@@ -14,7 +14,7 @@ Other folders correspond to older versions of the plugin.
 
 ## Installation
 
-Download zip. Choose your plugin version (see above). Then paste 'network_analysis' folder in the QGIS plugin repository. For instance, for windows users, paste it in "C:\Program Files\QGIS xxxx\apps\qgis\python\plugins"
+Download zip. Extract folders from zip file. Choose your plugin version (see above). Then paste 'network_analysis' folder in the QGIS plugin repository. For instance, for windows users, paste it in "C:\Program Files\QGIS xxxx\apps\qgis\python\plugins".
 
 ## Illustrations
 
