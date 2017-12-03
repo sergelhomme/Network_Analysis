@@ -1,4 +1,4 @@
-# Network Analysis
+# Network\_Analysis
 
 QGIS Plugin for analyzing networks characteristics.
 
@@ -15,3 +15,5 @@ Other folders correspond to previous versions of the plugin.
 ## Illustration
 
 ![An illustration of basic indicators](https://github.com/sergelhomme/Network_Analysis/blob/master/Images/basic_analysis2.png)
+
+An illustration of basic indicators with Network\_Anlysis : Degree and Betweenness
