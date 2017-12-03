@@ -14,4 +14,4 @@ Other folders correspond to previous versions of the plugin.
 
 # Illustration
 
-![An illustration of basic indicators](https://github.com/sergelhomme/Network_Analysis/tree/master/Images/basic_analysis2.png)
+[An illustration of basic indicators](https://github.com/sergelhomme/Network_Analysis/tree/master/Images/basic_analysis2.png)
