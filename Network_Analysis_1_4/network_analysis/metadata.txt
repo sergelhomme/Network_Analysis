@@ -1,0 +1,11 @@
+[general]
+name=Network_analysis
+description=Tools for analyzing networks characteristics
+category=Vector
+version=1.4
+qgisMinimumVersion=2.0
+
+author=Serge Lhomme
+email=serge.lhomme@u-pec.fr
+
+class_name=NetworkAnalysis
