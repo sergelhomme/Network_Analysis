@@ -21,3 +21,7 @@ Other folders correspond to older versions of the plugin.
 ![Scale Free analysis](https://github.com/sergelhomme/Network_Analysis/blob/master/Images/statistics4.png)
 
 <p align="center"> Scale Free analysis with Network_Analysis </p>
+
+![Drawing Algo](https://github.com/sergelhomme/Network_Analysis/blob/master/Images/Drawing.png)
+
+<p align="center"> Drawing Algo with Network_Analysis </p>
