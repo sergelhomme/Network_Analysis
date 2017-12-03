@@ -16,4 +16,4 @@ Other folders correspond to previous versions of the plugin.
 
 ![An illustration of basic indicators](https://github.com/sergelhomme/Network_Analysis/blob/master/Images/basic_analysis2.png)
 
-<p align="center"> An illustration of basic indicators with Network\_Anlysis : Degree and Betweenness </p>
+<p align="center"> An illustration of two basic indicators with Network_Analysis : Degree and Betweenness </p>
