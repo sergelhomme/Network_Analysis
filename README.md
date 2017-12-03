@@ -15,5 +15,3 @@ Other folders correspond to previous versions of the plugin.
 # Illustration
 
 ![An illustration of basic indictors](https://github.com/sergelhomme/Network_Analysis/tree/master/Images/basic_analysis2.png)
-
-<img src="https://github.com/sergelhomme/Network_Analysis/tree/master/Images/basic_analysis2.png" width="350"/>
