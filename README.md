@@ -14,6 +14,10 @@ Other folders correspond to previous versions of the plugin.
 
 ## Illustrations
 
-![An illustration of basic indicators](https://github.com/sergelhomme/Network_Analysis/blob/master/Images/basic_analysis2.png)
+![An illustration of two basic indicators](https://github.com/sergelhomme/Network_Analysis/blob/master/Images/basic_analysis2.png)
 
 <p align="center"> An illustration of two basic indicators with Network_Analysis : Degree and Betweenness </p>
+
+![Scale Free analysis](https://github.com/sergelhomme/Network_Analysis/blob/master/Images/statistics4.png)
+
+<p align="center"> Scale Free analysis with Network_Analysis </p>
