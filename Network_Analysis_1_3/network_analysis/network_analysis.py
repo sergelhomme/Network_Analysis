@@ -4,7 +4,7 @@
 # NetworkAnalysis
 # Copyright Serge Lhomme
 # EMAIL: serge.lhomme (at) u-pec.fr
-# WEB  : http://serge.lhomme.pagesperso-orange.fr/deven.html
+# WEB  : http://sergelhomme.fr/deven.html
 #
 # Tools for analyzing networks characteristics
 #
