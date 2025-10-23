@@ -16,7 +16,8 @@ Other folders correspond to older versions of the plugin.
 
 Download zip. Extract folders from zip file. Choose your plugin version (see above). Paste 'network_analysis_x_x' folder in the QGIS plugin repository. For instance, for windows users, paste it in "C:\Program Files\QGIS xxxx\apps\qgis\python\plugins".
 
-You can also use these zip files : <a href="https://sergelhomme.fr/data/network_analysis_2_2.zip"  title="Analyse de graphe" >Network_Analysis_2_2</a> ; <a href="https://sergelhomme.fr/data/network_analysis_2_1.zip"  title="Analyse de graphe" >Network_Analysis_2_1</a> ; <a href="https://sergelhomme.fr/data/network_analysis_1_4.zip"  title="Analyse de graphe" >Network_Analysis_1_4</a> . To install this extension, Select "Plugins -> Install/Manage Plugins", click on the side tab "Install from ZIP", select the zipped folder, then click "Install Plugin" and that’s it.
+You can also use these zip files : <a href="https://sergelhomme.fr/data/network_analysis_2_2.zip"  title="Analyse de graphe" >Network_Analysis_2_2</a> ; <a href="https://sergelhomme.fr/data/network_analysis_2_1.zip"  title="Analyse de graphe" >Network_Analysis_2_1</a> ; <a href="https://sergelhomme.fr/data/network_analysis_1_4.zip"  title="Analyse de graphe" >Network_Analysis_1_4</a> . 
+To install this extension, Select "Plugins -> Install/Manage Plugins", click on the side tab "Install from ZIP", select the zipped folder, then click "Install Plugin" and that’s it.
 
 ## Illustrations
 
