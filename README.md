@@ -8,7 +8,7 @@ Here you can find different versions of the plugin. Each folder above correspond
 
 For QGIS 2.x please use Network\_Analysis\_1\_4
 
-For QGIS 3.x please use Network\_Analysis\_2\_1
+For QGIS 3.x please use Network\_Analysis\_2\_2
 
 Other folders correspond to older versions of the plugin.
 
