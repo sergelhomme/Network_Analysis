@@ -4,13 +4,13 @@ This plugin provides an intuitive workflow (a user friendly tool) for network an
 
 ## Introduction
 
-Here you can find different versions of the plugin. Each folder above correspond to a version of the plugin.
+Find the appropriate version of the plugin below. Each folder corresponds to a specific release:
 
-For QGIS 2.x please use Network\_Analysis\_1\_4
+QGIS 4.x (and latest 3.x builds): Use Network_Analysis_3_1
 
-For QGIS 3.x please use Network\_Analysis\_2\_2
+QGIS 3.x: Use Network_Analysis_2_2
 
-Other folders correspond to older versions of the plugin.
+Other folders contain older versions for backward compatibility.
 
 ## Installation
 
