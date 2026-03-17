@@ -28,9 +28,9 @@ To perform the calculations, you will need two spatial layers: a nodes layer and
 <li><b>Edges layer:</b> Must contain its own unique ID field. Additionally, this layer must include two specific fields referencing the IDs of the start and end nodes for each edge.</li>
 </ul>
 
-You can download a sample dataset <a href="https://sergelhomme.fr/data/Reseau.zip">here</a>. In this example, Villes.shp represents the nodes, and Autoroutes.shp represents the edges. Both layers include an "ID" field for their respective identifiers. The autoroutes layer also contains "arrivee" and "depart" fields, which store the IDs of the connected nodes.The following short video demonstrates how to use these fields to calculate node centrality : <a href="https://sergelhomme.fr/video/betweenness_fareness.mp4>here</a>.
+You can download a sample dataset <a href="https://sergelhomme.fr/data/Reseau.zip">here</a>. In this example, Villes.shp represents the nodes, and Autoroutes.shp represents the edges. Both layers include an "ID" field for their respective identifiers. The autoroutes layer also contains "arrivee" and "depart" fields, which store the IDs of the connected nodes.The following short video demonstrates how to use these fields to calculate node centrality : <a href="https://sergelhomme.fr/video/betweenness_fareness.mp4">here</a>.
 
-To ensure your identifiers are fully compatible with Network_analysis, you can use the built-in correction tool. Go to "Tools" and run "Correct ID". This process will generate three specific fields (AnNet, StartNode, and EndNode) that are pre-formatted to meet all the plugin's requirements. The following short video demonstrates how to use "Correct ID": <a href="https://sergelhomme.fr/video/correct_id.mp4>here</a>.
+To ensure your identifiers are fully compatible with Network_analysis, you can use the built-in correction tool. Go to "Tools" and run "Correct ID". This process will generate three specific fields (AnNet, StartNode, and EndNode) that are pre-formatted to meet all the plugin's requirements. The following short video demonstrates how to use "Correct ID": <a href="https://sergelhomme.fr/video/correct_id.mp4">here</a>.
 
 
 ## Illustrations
