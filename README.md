@@ -7,9 +7,9 @@ This plugin provides an intuitive workflow (a user friendly tool) for network an
 Find the appropriate version of the plugin below. Each folder corresponds to a specific release:
 
 <ul>
-<li><b>QGIS 4.x (and latest 3.x builds):</b> Use <a href="https://sergelhomme.fr/data/network_analysis_3_1.zip"  title="Analyse de graphe" >Network_Analysis_3_1</a></li>
+<li><b>QGIS 4.x (and latest 3.x builds):</b> Use <a href="https://sergelhomme.fr/data/network_analysis_3_1.zip">Network_Analysis_3_1</a></li>
 
-<li><b>QGIS 3.x:</b> Use <a href="https://sergelhomme.fr/data/network_analysis_2_2.zip"  title="Analyse de graphe" >Network_Analysis_2_2</a>
+<li><b>QGIS 3.x:</b> Use <a href="https://sergelhomme.fr/data/network_analysis_2_2.zip">Network_Analysis_2_2</a>
 </ul></li>
 
 Other folders contain older versions for backward compatibility.
@@ -28,7 +28,7 @@ To perform the calculations, you will need two spatial layers: a nodes layer and
 <li><b>Edges layer:</b> Must contain its own unique ID field. Additionally, this layer must include two specific fields referencing the IDs of the start and end nodes for each edge.</li>
 </ul>
 
-You can download a sample dataset here.
+You can download a sample dataset <a href="https://sergelhomme.fr/data/Reseau.zip">here</a>.
 
 ## Illustrations
 
