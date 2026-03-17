@@ -20,5 +20,5 @@
 #---------------------------------------------------------------------
 
 def classFactory(iface):
-  from .network_analysis_2_1 import NetworkAnalysis
+  from .network_analysis_2_2 import NetworkAnalysis
   return NetworkAnalysis(iface)
