@@ -1,6 +1,6 @@
 # Network\_Analysis
 
-QGIS Plugin for analyzing networks characteristics.
+This plugin provides an intuitive workflow (a user friendly tool) for network analysis within QGIS. It aims to fill the gap in GIS software for tools dedicated to the structural analysis of spatial networks. The extension is powered by the NetworkX library.
 
 ## Introduction
 
