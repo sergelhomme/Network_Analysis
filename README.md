@@ -18,6 +18,18 @@ Other folders contain older versions for backward compatibility.
 
 Download the ZIP archive. In QGIS, go to the Plugins menu. Select Manage and Install Plugins... Click on the Install from ZIP tab. Browse and select the ZIP file. Click Install Plugin.
 
+## Getting Started
+
+To perform the calculations, you will need two spatial layers: a nodes layer and an edges (arcs) layer. Regardless of the algorithm selected, the initial dialog box will prompt you to select both the node and edge layers from your project.
+
+<ul>
+<li><b>Nodes layer:</b> Must include a unique identifier field. It is strongly recommended to use numeric IDs (from 1 to n). </li>
+
+<li><b>Edges layer:</b> Must contain its own unique ID field. Additionally, this layer must include two specific fields referencing the IDs of the start and end nodes for each edge.</li>
+</ul>
+
+You can download a sample dataset here.
+
 ## Illustrations
 
 ![An illustration of two basic indicators](https://github.com/sergelhomme/Network_Analysis/blob/master/Images/basic_analysis2.png)
